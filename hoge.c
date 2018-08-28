@@ -1,5 +1,6 @@
 #include<stdio.h>
 //\(^~^)/
+//\(=ι=)/
 int main(void){
     int a;
 
